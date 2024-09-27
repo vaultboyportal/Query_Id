@@ -2,7 +2,6 @@
 
 This Node.js Telegram script manages Multi Telegram Account for All Mini Apps bot, Unlimited Account Support handling Login Via Telegram Sessions or Telegram OTP ! By using API ID and API HASH. The script also includes functionality to Get query Id from All Accounts at once and Multiple TG Mini Apps at once. You can then Use these Query_ID in other Scripts for Botting the Mini Apps.
 
-# FOR ANY KIND OF HELP CONTACT : 0xphatom on Discord https://discord.com/users/979641024215416842
 
 # Setps to follow !
 
@@ -27,7 +26,3 @@ This Node.js Telegram script manages Multi Telegram Account for All Mini Apps bo
 Educational Purposes Only:
 
 This script is intended solely for educational and research purposes. The authors and contributors of this project are not responsible for any misuse of this code. Any actions taken using this code are the sole responsibility of the user.
-
-# Copyright Notice:
-
-This script is protected under the provisions of the U.S. Copyright Act of 1976, Title 17, United States Code. Unauthorized reproduction or distribution of this script, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under the law. For more information, please consult the full text of the law: [Title 17 of the U.S. Code.](https://www.copyright.gov/title17/)
